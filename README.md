@@ -8,6 +8,8 @@ Project demo video Link: https://www.youtube.com/watch?v=QeLBZmgMxLc
 
 ABOUT THIS PROJECT-:
 
-  1. In this project i have created a simple stopwatch using HTML CSS and JavaScript.
-  2. In the Stopwatch there are three buttons start, pause, and reset for operating the stopwatch.
-  3. The main logic use in this stopwatch project is the set interval function.
+1. This project is a basic stopwatch application developed using HTML, CSS, and JavaScript. It incorporates three fundamental buttons: start, pause, and reset, enabling users to control the stopwatch's operation.
+
+2. The core functionality of the stopwatch relies on the utilization of the setInterval() function in JavaScript. This function facilitates the periodic execution of a specified function, enabling the stopwatch to increment time values continuously.
+
+3. By combining these elements, users can effectively interact with the stopwatch, initiating its operation, pausing it as needed, and resetting it to its initial state, providing a simple yet functional timekeeping solution.
